@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Giordan+Maniti" />
 
