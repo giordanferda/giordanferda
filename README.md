@@ -5,10 +5,10 @@
 
 
 - 🔭 I am currently enrolled in App Academy 
-- 🔭 Currently Learning Python and Flask
 
 
-Technologies Used:
+
+Technologies Learned:
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
