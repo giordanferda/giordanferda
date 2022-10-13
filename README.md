@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Giordan+Maniti" />
 
-- I am 23 years old! 
+- 😎 I am 23 years old! 
 - 🔭 I am currently enrolled in App Academy 
-- I enjoy going to the gym, hiking, biking, and pickleball on my free time.
+- 🚲 I enjoy going to the gym, hiking, biking, and pickleball on my free time.
 
 
 ### Languages:
