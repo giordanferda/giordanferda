@@ -4,7 +4,7 @@
 
 - 😎 I am 24 years old! 
 - 🔭 I am currently enrolled in App Academy 
-- 🚲 I enjoy going to the gym, hiking, biking, and pickleball on my free time.
+- 🚲 I enjoy going to the gym, hiking, biking, and tennis on my free time.
 
 
 ### Languages:
