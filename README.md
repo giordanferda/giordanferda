@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Giordan+Maniti" />
 
 - 😎 I am 24 years old! 
-- 🔭 I am currently enrolled in App Academy 
 - 🚲 I enjoy going to the gym, hiking, biking, and tennis on my free time.
 
 
